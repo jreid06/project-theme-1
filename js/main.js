@@ -36,7 +36,7 @@ $(document).ready(function() {
       $(timeptag).text(startpos);
 
       if (startpos > 0) {
-        console.log("function started");
+        console.log();
         timeingFunc();
       }
     }
