@@ -18,7 +18,11 @@ $(document).ready(function() {
 
     // loaderIcon();
 
-
+    //check which case statement is running after nuber hits 0
+    //tomorrows TASK!!!
+    //GET COLOURSCHEME SET UP
+    //SET UP OTHER PAGES AND FIX DESIGN QUIRKS
+    //REFACTOR CODE WHERE POSSIBLE 
 
     function countdown(time) {
       switch (time) {
