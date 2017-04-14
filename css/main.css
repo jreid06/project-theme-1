@@ -10,6 +10,17 @@ body {
     height: auto;
     margin: 0 auto; }
 
+#time01 {
+  width: 20%;
+  margin: 280px auto;
+  left: 0;
+  right: 0;
+  position: absolute;
+  height: auto;
+  font-size: 7em;
+  color: #090C08;
+  text-align: center; }
+
 .loader-flex {
   display: flex;
   flex-direction: row;

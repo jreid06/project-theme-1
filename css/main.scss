@@ -26,6 +26,19 @@ body {
     }
 }
 
+#time01{
+  // background-color: red;
+  width: 20%;
+  margin: 280px auto;
+  left: 0;
+  right: 0;
+  position: absolute;
+  height: auto;
+  font-size: 7em;
+  color: $black;
+  text-align: center;
+}
+
 .loader-flex {
     display: flex;
     flex-direction: row;
