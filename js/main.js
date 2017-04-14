@@ -22,7 +22,7 @@ $(document).ready(function() {
     //tomorrows TASK!!!
     //GET COLOURSCHEME SET UP
     //SET UP OTHER PAGES AND FIX DESIGN QUIRKS
-    //REFACTOR CODE WHERE POSSIBLE 
+    //REFACTOR CODE WHERE POSSIBLE
 
     function countdown(time) {
       switch (time) {
