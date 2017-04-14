@@ -94,21 +94,23 @@ $(document).ready(function() {
 
     // var x = 5;
 
-    function counter() {
-      $('#time01').text(x);
+  //   function counter() {
+  //     $('#time01').text(x);
+  //
+  //     //log statement
+  //     console.log("5 is in starting position");
+  //
+  //     setInterval(function(){
+  //       timedsd(x);
+  //       console.log("counter function has started");
+  //     },1000);
+  //   }
+  //
+  // if (x < 6) {
+  //     counter();
+  // }
 
-      //log statement
-      console.log("5 is in starting position");
-
-      setInterval(function(){
-        timedsd(x);
-        console.log("counter function has started");
-      },1000);
-    }
-
-  if (x < 6) {
-      counter();
-  }
+  alert("new branch COUNTDOWN 01");
 
 
     // var count = 0;
